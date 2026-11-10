@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinai-tower-inn.vercel.app/sitemap.xml

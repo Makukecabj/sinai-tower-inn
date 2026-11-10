@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Sinai Tower INN",
+    "short_name": "Sinai Tower INN",
+    "tagline": "Sinai Tower INN · Ecuador",
+    "description": "Habitaciones cómodas y buena onda en Sinai Tower INN, Ecuador.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Ecuador · Q3F6+RGV Ciudadela Milina",
+    "title_line1": "Hospedate en",
+    "title_em": "Sinai Tower INN",
+    "title_line2": "",
+    "subtitle": "Todo lo que buscás para viajar tranquilo por Ecuador."
+  },
+  "location": {
+    "address": "Q3F6+RGV Ciudadela Milina, Salinas, Ecuador",
+    "district": "Ecuador",
+    "city": "Ecuador",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Q3F6+RGV Ciudadela Milina, Salinas, Ecuador, Ecuador",
+    "map_embed": "https://maps.google.com/maps?q=Q3F6%2BRGV+Ciudadela+Milina%2C+Salinas%2C+Ecuador%2C+Ecuador&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Ecuador. El mejor lugar para quedarte en la zona.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/19735178299",
+    "phone": "+19735178299",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Sinai+Tower+INN/data=!4m10!3m9!1s0x902e0ef9e75dcde1:0xd6dbe55b96e60afa!5m2!4m1!1i2!8m2!3d-2.2253908!4d-80.9387001!16s%2Fg%2F11h1ml1rtq!19sChIJ4c1d5_kOLpAR-grmllvl29Y?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Sinai+Tower+INN/data=!4m10!3m9!1s0x902e0ef9e75dcde1:0xd6dbe55b96e60afa!5m2!4m1!1i2!8m2!3d-2.2253908!4d-80.9387001!16s%2Fg%2F11h1ml1rtq!19sChIJ4c1d5_kOLpAR-grmllvl29Y?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes están al frente",
+    "title": "Sinai Tower INN, todo lo que necesitás saber.",
+    "paragraphs": [
+      "En Sinai Tower INN nos encanta recibir viajeros de todo el mundo. Tenemos todo lo que necesitás: WiFi, pileta, parrilla, cocina y una ubicación top en Ecuador. Escribinos y te contamos más."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "WhatsApp rápido para todo",
+    "Precio real, sin letras chiquitas",
+    "Ya recibimos viajeros de todo el mundo"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Dormí como en casa",
+      "description": "Colchones buenos, sabanas limpias, olvidate del insomnio.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi sin vueltas",
+      "description": "Te conectás y funciona, así de simple.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Ubicación top",
+      "description": "Todo lo que querés ver queda cerca.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Tienen estacionamiento?",
+      "answer": "Sí, tenemos lugar para estacionar sin cargo."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Se puede ir con mascota?",
+      "answer": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+    },
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Sinai Tower INN",
+    "copyright": "© 2026 Sinai Tower INN. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Sinai Tower INN",
+        "short_name": "Sinai Tower INN",
+        "tagline": "Sinai Tower INN · Accommodation",
+        "description": "A cool hostel in Ecuador. Meet Sinai Tower INN.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Ecuador · Q3F6+RGV Ciudadela Milina",
+        "title_line1": "Enjoy",
+        "title_em": "Sinai Tower INN",
+        "title_line2": "in Ecuador",
+        "subtitle": "Your base to explore Ecuador with everything you need."
+      },
+      "about": {
+        "eyebrow": "Everything about us",
+        "title": "The story of Sinai Tower INN.",
+        "paragraphs": [
+          "Sinai Tower INN is a family-run hostel in Ecuador, run by its owners. We offer private and shared rooms, free WiFi, a fully equipped kitchen, pool and BBQ. We're in the city center, close to everything you need."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Ecuador. The ideal location for your trip."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there parking?",
+          "answer": "Yes, we have free parking on the property."
+        },
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Quick answers whenever you need",
+        "No middlemen, no surprises",
+        "We've been travelers too, we get it"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        }
+      ],
+      "footer": {
+        "description": "Sinai Tower INN",
+        "copyright": "© 2026 Sinai Tower INN. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Sinai Tower INN",
+        "description": "Tu base en Sinai Tower INN para explorar Ecuador.",
+        "url": "",
+        "telephone": "+19735178299",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Sinai+Tower+INN/data=!4m10!3m9!1s0x902e0ef9e75dcde1:0xd6dbe55b96e60afa!5m2!4m1!1i2!8m2!3d-2.2253908!4d-80.9387001!16s%2Fg%2F11h1ml1rtq!19sChIJ4c1d5_kOLpAR-grmllvl29Y?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Q3F6+RGV Ciudadela Milina, Salinas, Ecuador",
+          "addressLocality": "Ecuador",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Dormí como en casa",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi sin vueltas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Ubicación top",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Tienen estacionamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, tenemos lugar para estacionar sin cargo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede ir con mascota?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
